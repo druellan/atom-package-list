@@ -46,3 +46,4 @@ Polymorph-UI -- <https://atom.io/packages/polymorph-ui> -- *Has some problems wi
 
 Atom Ctags -- <https://atom.io/packages/atom-ctags><br>
 Atom Beautify -- <https://atom.io/packages/atom-beautify><br>
+Atom-Syntax-highlighting-for-Sass -- <https://github.com/P233/Atom-Syntax-highlighting-for-Sass><br>
