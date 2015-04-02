@@ -1,11 +1,13 @@
 ## Atom.io Packages
-I'm building my Atom environment for HTML/CSS/LESS/Javascript/PHP programming, that usually means to test lots of packages and keep the ones that provide top functionality and play nice with Atom and each other. This is the list of packages I decided to keep, and also the oneas I'm currently testing.
+I'm building my Atom environment for HTML/CSS/LESS/Javascript/PHP, that usually means: test lots of packages and keep the ones that provide top functionality, play nice with Atom and each other. This is a list of packages I decided to keep, test and explore in the future.
 
 #### Language Syntax
 
 #### Completions / Snippets
 
 Autocomplete Plus -- <https://atom.io/packages/autocomplete-plus><br>
+> CSS Autocomplete <https://atom.io/packages/autocomplete-css><br>
+> HTML Autocomplete <https://atom.io/packages/autocomplete-html><br>
 
 #### Validation / Linting
 
@@ -31,19 +33,25 @@ Remote Sync -- <https://atom.io/packages/remote-sync><br>
 Project Manager -- <https://atom.io/packages/project-manager><br>
 Terminal Panel -- <https://atom.io/packages/terminal-panel><br>
 Git Log -- <https://atom.io/packages/git-log><br>
-
+Open Git Modified Files -- <https://atom.io/packages/open-git-modified-files><br>
 
 #### Themes
 
 Graphite-UI -- <https://atom.io/packages/graphite-ui><br>
 Polymorph-UI -- <https://atom.io/packages/polymorph-ui> -- *Has some problems with hi-dpi*<br>
 
+For hi-dpi, I'm currently hacking the Atom less style.<br>
+
 #### Color Schemes
-
-
 
 ## Testing
 
-Atom Ctags -- <https://atom.io/packages/atom-ctags><br>
 Atom Beautify -- <https://atom.io/packages/atom-beautify><br>
 Atom-Syntax-highlighting-for-Sass -- <https://github.com/P233/Atom-Syntax-highlighting-for-Sass><br>
+Project-palette-finder -- <https://atom.io/packages/project-palette-finder><br>
+
+Autocomplete+ Providers
+> Atom YouCompleteMe -- <https://atom.io/packages/you-complete-me><br>
+> Atom Ctags -- <https://atom.io/packages/atom-ctags><br>
+> Atom-ternjs -- <https://atom.io/packages/atom-ternjs><br>
+> Atom-Hack -- <https://atom.io/packages/atom-hack><br>
