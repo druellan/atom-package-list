@@ -1,5 +1,5 @@
 ## Atom.io Packages
-I'm building my Atom environment for HTML/CSS/LESS/Javascript/PHP, that usually means: test lots of packages and keep the ones that provide top functionality, play nice with Atom and each other. This is a list of packages I decided to keep, test and explore in the future.
+I'm building my Atom environment for HTML/CSS/LESS/Javascript/PHP, that usually means: test a lot of packages to find the ones that provide top functionality, play nice with Atom and are compatible with each other. This is a list of packages I decided to keep, test and explore in the future.
 
 #### Language Syntax
 
@@ -20,6 +20,7 @@ Linter -- <https://atom.io/packages/linter><br>
 #### Visual Aids
 
 Atom Color Highlight -- <https://atom.io/packages/atom-color-highlight><br>
+Atom HiDPI / Retina -- <https://atom.io/packages/hidpi><br>
 Minimap -- <https://atom.io/packages/minimap><br>
 > Minimap Find & Replace -- <https://atom.io/packages/minimap-find-and-replace><br>
 
