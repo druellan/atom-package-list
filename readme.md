@@ -1,5 +1,5 @@
 ## Atom.io Packages
-I'm building my Atom environment for HTML/CSS/LESS/Javascript/PHP, that usually means: test a lot of packages to find the ones that provide top functionality, play nice with Atom and are compatible with each other. This is a list of packages I decided to keep, test and explore in the future.
+A rich Atom environment for HTML/CSS/LESS/Javascript/PHP usually means to test a lot of packages to find the ones that provide top functionality, play nice with Atom and are compatible with each other. This is a list of packages I decided to keep, others I'm testing and a couple I want to explore in the future.
 
 #### Language Syntax
 
@@ -20,7 +20,7 @@ Linter -- <https://atom.io/packages/linter><br>
 #### Visual Aids
 
 Atom Color Highlight -- <https://atom.io/packages/atom-color-highlight><br>
-Atom HiDPI / Retina -- <https://atom.io/packages/hidpi><br>
+Atom HiDPI / Retina -- <https://atom.io/packages/hidpi> --> perhaps it has a problem with Minimap<br>
 Minimap -- <https://atom.io/packages/minimap><br>
 > Minimap Find & Replace -- <https://atom.io/packages/minimap-find-and-replace><br>
 
@@ -29,7 +29,6 @@ Minimap -- <https://atom.io/packages/minimap><br>
 Assign Align -- <https://atom.io/packages/assign-align><br>
 Merge Conflicts -- <https://atom.io/packages/merge-conflicts><br>
 Dockblockr -- <https://atom.io/packages/docblockr><br>
-Remote Sync -- <https://atom.io/packages/remote-sync><br>
 
 Project Manager -- <https://atom.io/packages/project-manager><br>
 Terminal Panel -- <https://atom.io/packages/terminal-panel><br>
@@ -38,15 +37,16 @@ Open Git Modified Files -- <https://atom.io/packages/open-git-modified-files><br
 
 #### Themes
 
+Isotope -- <https://atom.io/themes/isotope-ui><br>
 Graphite-UI -- <https://atom.io/packages/graphite-ui><br>
 Polymorph-UI -- <https://atom.io/packages/polymorph-ui> -- *Has some problems with hi-dpi*<br>
-
-For hi-dpi, I'm currently hacking the Atom less style.<br>
 
 #### Color Schemes
 
 ## Testing
 
+Remote Sync -- <https://atom.io/packages/remote-sync><br>
+Atom Sync -- <https://atom.io/packages/atom-sync><br>
 Atom Beautify -- <https://atom.io/packages/atom-beautify><br>
 Atom-Syntax-highlighting-for-Sass -- <https://github.com/P233/Atom-Syntax-highlighting-for-Sass><br>
 Project-palette-finder -- <https://atom.io/packages/project-palette-finder><br>
