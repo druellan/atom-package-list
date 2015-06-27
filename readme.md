@@ -19,7 +19,7 @@ Linter -- <https://atom.io/packages/linter><br>
 
 #### Visual Aids
 
-Atom Color Highlight -- <https://atom.io/packages/atom-color-highlight><br>
+Pigments -- <https://atom.io/packages/pigments><br>
 Atom HiDPI / Retina -- <https://atom.io/packages/hidpi> --> perhaps it has a problem with Minimap<br>
 Minimap -- <https://atom.io/packages/minimap><br>
 > Minimap Find & Replace -- <https://atom.io/packages/minimap-find-and-replace><br>
