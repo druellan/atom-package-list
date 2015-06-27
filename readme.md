@@ -46,7 +46,8 @@ Polymorph-UI -- <https://atom.io/packages/polymorph-ui> -- *Has some problems wi
 ## Testing
 
 Remote Sync -- <https://atom.io/packages/remote-sync><br>
-Atom Sync -- <https://atom.io/packages/atom-sync><br>
+Atom Sync -- <https://atom.io/packages/atom-sync> --> experimental<br>
+Tool-bar -- <https://atom.io/packages/tool-bar>
 Atom Beautify -- <https://atom.io/packages/atom-beautify><br>
 Atom-Syntax-highlighting-for-Sass -- <https://github.com/P233/Atom-Syntax-highlighting-for-Sass><br>
 Project-palette-finder -- <https://atom.io/packages/project-palette-finder><br>
