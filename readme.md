@@ -1,5 +1,5 @@
 ## Atom.io Packages
-To have a rich Atom environment for HTML/CSS/Javascript/PHP, usually means: test a lot of packages to find the ones that provide top functionality, play nice with Atom and are compatible with each other. This is a list of packages I decided to keep, others I'm testing and a couple I want to explore in the future.
+To have a rich Atom environment for HTML/CSS/Javascript/PHP usually means: test a lot of packages to find the ones that provide top functionality, play nice with Atom and are compatible with each other. This is a list of packages I decided to keep, others I'm testing and a couple I want to explore in the future.
 
 #### Language Syntax
 
@@ -49,7 +49,7 @@ Atom Material Syntax -- <https://github.com/silvestreh/atom-material-syntax><br>
 ## Testing
 
 Atom Sync -- <https://atom.io/packages/atom-sync> --> experimental<br>
-Tool-bar -- <https://atom.io/packages/tool-bar>
+Tool-bar -- <https://atom.io/packages/tool-bar><br>
 Atom Beautify -- <https://atom.io/packages/atom-beautify><br>
 Project-palette-finder -- <https://atom.io/packages/project-palette-finder><br>
 
