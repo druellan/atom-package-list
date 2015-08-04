@@ -14,6 +14,7 @@ Linter -- <https://atom.io/packages/linter><br>
 > Linter-jshint -- <https://atom.io/packages/linter-jshint><br>
 > Linter-less -- <https://atom.io/packages/linter-less><br>
 > Linter-php -- <https://atom.io/packages/linter-php><br>
+> Linter-scss -- <https://github.com/AtomLinter/linter-scss-lint><br>
 
 #### Visual Aids
 
@@ -30,7 +31,9 @@ Dockblockr -- <https://atom.io/packages/docblockr><br>
 Project Manager -- <https://atom.io/packages/project-manager><br>
 Remote Sync -- <https://atom.io/packages/remote-sync><br>
 
-Assign Align -- <https://atom.io/packages/assign-align><br>
+Aligner -- <https://github.com/adrianlee44/atom-aligner><br>
+> Aligner CSS/LESS -- <https://github.com/adrianlee44/atom-aligner-css></br>
+> Aligner SASS/SCSS -- <https://github.com/adrianlee44/atom-aligner-scss><br>
 Terminal Panel -- <https://atom.io/packages/terminal-panel><br>
 Git Log -- <https://atom.io/packages/git-log><br>
 Open Git Modified Files -- <https://atom.io/packages/open-git-modified-files><br>
@@ -46,10 +49,10 @@ Atom Material Syntax -- <https://github.com/silvestreh/atom-material-syntax><br>
 
 ## Testing
 
+Quick Editor -- <https://atom.io/packages/quick-editor><br>
 Atom Sync -- <https://atom.io/packages/atom-sync> --> experimental<br>
 Tool-bar -- <https://atom.io/packages/tool-bar><br>
 Atom Beautify -- <https://atom.io/packages/atom-beautify><br>
-Project-palette-finder -- <https://atom.io/packages/project-palette-finder><br>
 
 Autocomplete+ Providers
 > Atom Ctags -- <https://atom.io/packages/atom-ctags><br>
