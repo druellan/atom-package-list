@@ -5,9 +5,7 @@ To have a rich Atom environment for HTML/CSS/Javascript/PHP usually means: test 
 
 #### Completions / Snippets
 
-Autocomplete Plus -- <https://atom.io/packages/autocomplete-plus><br>
-> CSS Autocomplete <https://atom.io/packages/autocomplete-css><br>
-> HTML Autocomplete <https://atom.io/packages/autocomplete-html><br>
+Autocomplete Plus -- <https://atom.io/packages/autocomplete-plus> -- *Now part of Atom's core packages!*<br>
 
 #### Validation / Linting
 
