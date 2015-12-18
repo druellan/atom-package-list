@@ -14,7 +14,9 @@ Linter -- <https://atom.io/packages/linter><br>
 > Linter-jshint -- <https://atom.io/packages/linter-jshint><br>
 > Linter-less -- <https://atom.io/packages/linter-less><br>
 > Linter-php -- <https://atom.io/packages/linter-php><br>
-> Linter-scss -- <https://github.com/AtomLinter/linter-scss-lint><br>
+> Linter-sass-lint -- <https://atom.io/packages/linter-sass-lint> --> Nodejs version<br>
+
+> Linter-scss-lint -- <https://github.com/AtomLinter/linter-scss-lint> --> requires Ruby<br>
 
 #### Visual Aids
 
