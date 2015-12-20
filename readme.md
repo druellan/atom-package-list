@@ -36,6 +36,7 @@ Remote Sync -- <https://atom.io/packages/remote-sync><br>
 Aligner -- <https://github.com/adrianlee44/atom-aligner><br>
 > Aligner CSS/LESS -- <https://github.com/adrianlee44/atom-aligner-css></br>
 > Aligner SASS/SCSS -- <https://github.com/adrianlee44/atom-aligner-scss><br>
+
 Terminal Panel -- <https://atom.io/packages/terminal-panel><br>
 Git Log -- <https://atom.io/packages/git-log><br>
 Open Git Modified Files -- <https://atom.io/packages/open-git-modified-files><br>
