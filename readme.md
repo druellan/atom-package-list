@@ -51,6 +51,7 @@ Atom Material Syntax -- <https://github.com/silvestreh/atom-material-syntax><br>
 
 ## Testing
 
+GIT Plus -- <https://atom.io/packages/git-plus><br>
 Quick Editor -- <https://atom.io/packages/quick-editor><br>
 Atom Sync -- <https://atom.io/packages/atom-sync> --> experimental<br>
 Tool-bar -- <https://atom.io/packages/tool-bar><br>
