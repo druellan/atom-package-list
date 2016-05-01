@@ -39,6 +39,7 @@ Aligner -- <https://github.com/adrianlee44/atom-aligner><br>
 
 Terminal Panel -- <https://atom.io/packages/terminal-panel><br>
 Git Log -- <https://atom.io/packages/git-log><br>
+Git Time Machine -- <https://atom.io/packages/git-time-machine><br>
 Open Git Modified Files -- <https://atom.io/packages/open-git-modified-files><br>
 
 #### Themes
