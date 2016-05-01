@@ -1,5 +1,5 @@
 ## Atom.io Packages
-To have a rich Atom environment for HTML/CSS/Javascript/PHP usually means: test a lot of packages to find the ones that provide top functionality, play nice with Atom and are compatible with each other. This is a list of packages I decided to keep, others I'm testing and a couple I want to explore in the future.
+Have a rich Atom environment for HTML/CSS/Javascript/PHP usually means: test a lot of packages to find the ones that provide top functionality, play nice with Atom and are compatible with each other. This is a list of packages I decided to keep, others I'm testing and a couple I want to explore in the future.
 
 #### Language Syntax
 
