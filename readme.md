@@ -45,7 +45,7 @@ Open Git Modified Files -- <https://atom.io/packages/open-git-modified-files><br
 #### Themes
 
 Atom Material UI -- <https://atom.io/themes/atom-material-ui><br>
-Jonikorpi -- <https://github.com/jonikorpi/jonikorpi-atom-theme-one-ui><br>
+Jonikorpi Atom -- <https://github.com/jonikorpi/jonikorpi-atom-theme-one-ui><br>
 
 #### Color Schemes
 
