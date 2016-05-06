@@ -32,6 +32,7 @@ Merge Conflicts -- <https://atom.io/packages/merge-conflicts><br>
 Dockblockr -- <https://atom.io/packages/docblockr><br>
 Project Manager -- <https://atom.io/packages/project-manager><br>
 Remote Sync -- <https://atom.io/packages/remote-sync><br>
+Autoprefixer -- <https://atom.io/packages/autoprefixer><br>
 
 Aligner -- <https://github.com/adrianlee44/atom-aligner><br>
 > Aligner CSS/LESS -- <https://github.com/adrianlee44/atom-aligner-css></br>
