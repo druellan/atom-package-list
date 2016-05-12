@@ -6,6 +6,7 @@ Have a rich Atom environment for HTML/CSS/Javascript/PHP usually means: test a l
 #### Completions / Snippets
 
 Autocomplete Plus -- <https://atom.io/packages/autocomplete-plus> -- *Now part of Atom's core packages!*<br>
+Atom Bootstrap3 -- <https://atom.io/packages/atom-bootstrap3> -- *Bootstrap 3 Support with snippets and autocompletion.*<br>
 
 #### Validation / Linting
 
@@ -15,6 +16,7 @@ Linter -- <https://atom.io/packages/linter><br>
 > Linter-less -- <https://atom.io/packages/linter-less><br>
 > Linter-php -- <https://atom.io/packages/linter-php><br>
 > Linter-sass-lint -- <https://atom.io/packages/linter-sass-lint> --> Nodejs version<br>
+> Linter-bootlint -- <https://atom.io/packages/linter-bootlint><br>
 
 > Linter-scss-lint -- <https://github.com/AtomLinter/linter-scss-lint> --> requires Ruby<br>
 
