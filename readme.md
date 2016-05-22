@@ -53,6 +53,7 @@ Jonikorpi Atom -- <https://github.com/jonikorpi/jonikorpi-atom-theme-one-ui><br>
 #### Color Schemes
 
 Atom Material Syntax -- <https://github.com/silvestreh/atom-material-syntax><br>
+Leche -- <https://atom.io/themes/leche-syntax><br>
 
 ## Testing
 
