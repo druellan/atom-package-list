@@ -25,6 +25,8 @@ Linter -- <https://atom.io/packages/linter><br>
 Pigments -- <https://atom.io/packages/pigments><br>
 Minimap -- <https://atom.io/packages/minimap><br>
 > Minimap Find & Replace -- <https://atom.io/packages/minimap-find-and-replace><br>
+> Minimap-highlight-selected -- <https://atom.io/packages/minimap-highlight-selected><br>
+> Minimap Cursorline -- <https://atom.io/packages/minimap-cursorline><br>
 
 Atom HiDPI / Retina -- <https://atom.io/packages/hidpi> --> perhaps problems with Minimap?<br>
 
@@ -35,6 +37,7 @@ Dockblockr -- <https://atom.io/packages/docblockr><br>
 Project Manager -- <https://atom.io/packages/project-manager><br>
 Remote Sync -- <https://atom.io/packages/remote-sync><br>
 Autoprefixer -- <https://atom.io/packages/autoprefixer><br>
+Atom Beautify -- <https://atom.io/packages/atom-beautify><br>
 
 Aligner -- <https://github.com/adrianlee44/atom-aligner><br>
 > Aligner CSS/LESS -- <https://github.com/adrianlee44/atom-aligner-css></br>
@@ -43,7 +46,6 @@ Aligner -- <https://github.com/adrianlee44/atom-aligner><br>
 Terminal Panel -- <https://atom.io/packages/terminal-panel><br>
 Git Log -- <https://atom.io/packages/git-log><br>
 Git Time Machine -- <https://atom.io/packages/git-time-machine><br>
-Open Git Modified Files -- <https://atom.io/packages/open-git-modified-files><br>
 
 #### Themes
 
@@ -54,12 +56,15 @@ Jonikorpi Atom -- <https://github.com/jonikorpi/jonikorpi-atom-theme-one-ui><br>
 
 Atom Material Syntax -- <https://github.com/silvestreh/atom-material-syntax><br>
 Leche -- <https://atom.io/themes/leche-syntax><br>
+Qcolor -- <https://atom.io/packages/qolor><br> -- semantic highlighting to your SQL queries by matching tables to their aliases.
 
 ## Testing
 
 GIT Plus -- <https://atom.io/packages/git-plus><br>
+Git Tree Status -- <https://atom.io/packages/tree-view-git-status><br>
 Quick Editor -- <https://atom.io/packages/quick-editor><br>
 Atom Sync -- <https://atom.io/packages/atom-sync> --> experimental<br>
+Open Git Modified Files -- <https://atom.io/packages/open-git-modified-files><br>
 Tool-bar -- <https://atom.io/packages/tool-bar><br>
 Atom Beautify -- <https://atom.io/packages/atom-beautify><br>
 
