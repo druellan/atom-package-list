@@ -64,9 +64,9 @@ GIT Plus -- <https://atom.io/packages/git-plus><br>
 Git Tree Status -- <https://atom.io/packages/tree-view-git-status><br>
 Quick Editor -- <https://atom.io/packages/quick-editor><br>
 Atom Sync -- <https://atom.io/packages/atom-sync> --> experimental<br>
-Open Git Modified Files -- <https://atom.io/packages/open-git-modified-files><br>
 Tool-bar -- <https://atom.io/packages/tool-bar><br>
 Atom Beautify -- <https://atom.io/packages/atom-beautify><br>
+Atom Lupa -- <https://atom.io/packages/atom-lupa><br>
 
 Autocomplete+ Providers
 > Atom Ctags -- <https://atom.io/packages/atom-ctags><br>
