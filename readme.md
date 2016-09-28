@@ -5,7 +5,8 @@ Have a rich Atom environment for HTML/CSS/Javascript/PHP usually means: test a l
 
 #### Completions / Snippets
 
-Autocomplete Plus -- <https://atom.io/packages/autocomplete-plus> -- *Now part of Atom's core packages!*<br>
+Wordpress API -- <https://atom.io/packages/wordpress-api><br>
+Atom Drupal -- <https://github.com/favish/atom-drupal><br>
 Atom Bootstrap3 -- <https://atom.io/packages/atom-bootstrap3> -- *Bootstrap 3 Support with snippets and autocompletion.*<br>
 
 #### Validation / Linting
@@ -26,7 +27,7 @@ Pigments -- <https://atom.io/packages/pigments><br>
 Minimap -- <https://atom.io/packages/minimap><br>
 > Minimap Find & Replace -- <https://atom.io/packages/minimap-find-and-replace><br>
 > Minimap-highlight-selected -- <https://atom.io/packages/minimap-highlight-selected><br>
-> Minimap Cursorline -- <https://atom.io/packages/minimap-cursorline><br>
+> Minimap Linter -- <https://atom.io/packages/minimap-linter><br>
 
 Atom HiDPI / Retina -- <https://atom.io/packages/hidpi> --> perhaps problems with Minimap?<br>
 
@@ -34,7 +35,6 @@ Atom HiDPI / Retina -- <https://atom.io/packages/hidpi> --> perhaps problems wit
 
 Merge Conflicts -- <https://atom.io/packages/merge-conflicts><br>
 Dockblockr -- <https://atom.io/packages/docblockr><br>
-Project Manager -- <https://atom.io/packages/project-manager><br>
 Remote Sync -- <https://atom.io/packages/remote-sync><br>
 Autoprefixer -- <https://atom.io/packages/autoprefixer><br>
 Atom Beautify -- <https://atom.io/packages/atom-beautify><br>
@@ -44,8 +44,10 @@ Aligner -- <https://github.com/adrianlee44/atom-aligner><br>
 > Aligner SASS/SCSS -- <https://github.com/adrianlee44/atom-aligner-scss><br>
 
 Terminal Panel -- <https://atom.io/packages/terminal-panel><br>
+Project Manager -- <https://atom.io/packages/project-manager><br>
 Git Log -- <https://atom.io/packages/git-log><br>
 Git Time Machine -- <https://atom.io/packages/git-time-machine><br>
+Atom File Watcher -- <https://atom.io/packages/file-watcher><br>
 
 #### Themes
 
