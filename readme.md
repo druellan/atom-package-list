@@ -69,6 +69,8 @@ Atom Sync -- <https://atom.io/packages/atom-sync> --> experimental<br>
 Tool-bar -- <https://atom.io/packages/tool-bar><br>
 Atom Beautify -- <https://atom.io/packages/atom-beautify><br>
 Atom Lupa -- <https://atom.io/packages/atom-lupa><br>
+Bezier Curve Editor -- <https://atom.io/packages/bezier-curve-editor><br>
+Editorconfig -- <https://atom.io/packages/editorconfig><br>
 
 Autocomplete+ Providers
 > Atom Ctags -- <https://atom.io/packages/atom-ctags><br>
